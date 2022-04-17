@@ -1,0 +1,10 @@
+red 9
+green 7
+blue 3
+yellow 4
+pink 4
+orange 6
+purple 4
+black 5
+grey 0
+cyan 4
